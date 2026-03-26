@@ -1,4 +1,4 @@
-# ESP32 Tetris Console 🕹️
+# ESP32 Tetris Console 
 
 This is a custom Tetris game I built using an ESP32 microcontroller and a small OLED display. It was initially developed as a university project for the Scientific Communications Session (SSCF) at UNSTPB, but it turned out to be a great way to practice C++ and hardware integration.
 
